@@ -4,7 +4,7 @@
 <edge STYLE="bezier"/>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1457600962383" ID="ID_246328400" MODIFIED="1457601937397" POSITION="right" TEXT="Hadoop">
+<node COLOR="#0033ff" CREATED="1457600962383" ID="ID_246328400" MODIFIED="1457602456377" POSITION="right" TEXT="Hadoop">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="idea"/>
